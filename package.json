@@ -1,0 +1,15 @@
+{
+  "name": "@backlight-dev/aaa-ws.style-dictionary-lp2ypslq",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 7Qx8cG6nsXisUo4uC2cU --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "lit": "^2.2.0"
+  }
+}
